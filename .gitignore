@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Config file
+config.py
+Data/config.py
+Data/Scrap Notebooks/config.py
